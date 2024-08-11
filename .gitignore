@@ -1,0 +1,16 @@
+*.vs
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.tlog
+*.hint
+*.ini
+
+#ImGUI uses a .ini for window data
+!imgui.ini
+
+Dough/x64/
+x64/
+.vscode/
+x86_64/
